@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/squeakycheetah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://squeakycheetah.github.io
+  * I am squeakycheetah (https://keybase.io/squeakycheetah) on keybase.
+  * I have a public key with fingerprint 758C 01FF E4FF E170 BBDD  1D82 4379 D9CE 26F8 B997
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017533bb2850ecb035518ef2579c43a3b97dc5be118b25747708c406289d48bcc60a",
+            "fingerprint": "758c01ffe4ffe170bbdd1d824379d9ce26f8b997",
+            "host": "keybase.io",
+            "key_id": "4379d9ce26f8b997",
+            "kid": "01017533bb2850ecb035518ef2579c43a3b97dc5be118b25747708c406289d48bcc60a",
+            "uid": "f705cae7dd96df46c285e5385af69f19",
+            "username": "squeakycheetah"
+        },
+        "service": {
+            "hostname": "squeakycheetah.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1485894759,
+    "expire_in": 157680000,
+    "prev": "7afb3073e931bbd95360a557d11869403ffbb8ef931af13ce9d9b2a2c01f2b2c",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNBAnicrVJ9TFVlGOfiB4M0YELLrTRObt3Rjc655/tSjYHdBghiTCQGXs7He+AA
+nXs591w+RJg4J4SU4tha8EercFzCaQ4GmYYCsq6DkLxCQSzEhMwwAlHkeie9h+o/
+/+zd3r17n/f3/J7n93veK5vXBYQYijfUlZ2mMI9hsLfNFZB5YimvAuHtYjliqUAK
+wdoBikTg1GyFsohYEBRDMZrEcZ43MyQKBB7FSRJjgGQmaVYgcA7nWVoUSB5gGMPD
+IEHTKCMQKGVmWJFgeEGgUA4xIZKs5AHVocqKBmlpkhFQTJIAATdGozwvipjImAmc
+ZkVWAGZKYniWpWFivt2pZ8DmeM4JYmQ7jMGLba29p+D/575da3QSjZICB2hRZClR
+IigBsgISZ0hOolgJY3WgE6gK9z6AaGexC3CF5UI+ABqXj1SaEPhWIgtAt1fX81Rc
+TJ6s5bv4fxQ6VLtmF+xFEJWvaQ6nRWfRyh16Wingbf8S2nhZEaGzMKMEqE7ZriAW
+DCIFTdYrYARDMixBk6wJAWUOWQU2WUeQNMWgcOl1QIk+D07icZTGAYtjcBYsiUP1
+JEmL0B2KJVBckngeugefOQnDBQBd582cWR+imTcLiC6xWLEjFlhJ4/J0cXKewmku
+FSCVfb3Z6wMMIQEbNwTqPy4gJDjsv3+ovBX6hGiZfi9lr+H+6Eu/vX7v6tWi8urF
+2p8jz4f8wt48n7Nw4LtLOXO5X1g3Hg6elaoyp/b0HlopHoyYTxjrm3m1me2cv4YU
+vF17qgFEJjYNJ/T7ptNzTe901tQtjUVNbPMkrd89VPBjN7E88OTsbP1nEUrsSJTp
+oVUAC5VnHI1TWegzHYf9Bz6/cfSj1mNR43dfk9Qb16fGsvdvj8BGxU/aTyze3eHY
+7fS3aF/Fkanfv9FzvC1686rPeO9Y6eJWZFtXTGynZaX99+GqZnUo14olN6WxH88k
+WVf3BRU4NN/45P72oLBkpWbX1k2pO7xDHd7A2TdzW1/Y5fFvOqu01EvD/OPSkgzf
+TEd4ak1/8fTQMouEJrjnPuiqz5xcjMjyHomOr771oEcOfTkdSfGkhim3m4OJR8bt
+sbbwb68khJv3pRndzsiW7hX3pYbBKk/2XyOKYWf2u7dyLmecnLE0tVrr+mNRm2vy
+9nMNNVJbXdzSgyoqbvWiUT6YNn/9wtxAtNG3N16O7o33n3rFPWKLv9jd5k1+PPMo
+ackzkTVF2TuirzWevtnA3fnwa8+exMv+gfu/Wr5R67pMZaHpR1Jyz81HHsogFnYm
+qqZqYL1w5gev2/jpli/XYWLF0fGB431CUeXBZ//4k5xYDH8xBrcYnifu9GwxNI42
+zwcKyw+LzpG1PwVNJ3j/BsHI05Y=
+=P97K
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/squeakycheetah
+
+==================================================================
